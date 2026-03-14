@@ -55,3 +55,7 @@ input{
     color: white;
     padding: 20px;
 }
+.box img{
+    height: 220px;
+    width: 220px;
+}
